@@ -1,0 +1,68 @@
+.download {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  margin: 0 auto 0 auto;
+  max-width: 1200px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.download-content {
+  padding: 10px;
+  max-width: 500px;
+  min-width: 300px;
+}
+
+.download-title {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #3f3f3f;
+  text-align: center;
+}
+
+.download-caption {
+  color: #888888;
+  text-align: center;
+  font-size: 14px;
+  max-width: 500px;
+  min-width: 300px;
+}
+
+.download-image {
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+  /* background-color: dodgerblue; */
+  overflow: hidden;
+}
+
+.download-image img {
+  width: 100%;
+  height: 100%;
+}
+
+.download-btn__cover {
+  margin-top: 10px;
+  max-width: 500px;
+  min-width: 300px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  justify-content: center;
+}
+
+.download-btn {
+  width: 180px;
+  height: 100%;
+  overflow: hidden;
+}
+
+.download-btn img {
+  width: 100%;
+  height: 100%;
+}
