@@ -16,7 +16,7 @@ function App() {
         <Navbar />
         <Body>
           <Switch>
-            <Route exact path={"/qwswebapp"} component={Home} />
+            <Route exact path={"/"} component={Home} />
             <Route exact path={"/termsandcondition"} component={TandC} />
           </Switch>
         </Body>
