@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/qwswebapp/static/css/main.f033e6c6.css",
-    "main.js": "/qwswebapp/static/js/main.81c81fef.js",
+    "main.js": "/qwswebapp/static/js/main.73c2b293.js",
     "static/js/787.6113f8f7.chunk.js": "/qwswebapp/static/js/787.6113f8f7.chunk.js",
     "static/media/userimage.svg": "/qwswebapp/static/media/userimage.7da0cce0a1f4452d527af1c6d5511343.svg",
     "static/media/p2p.jpg": "/qwswebapp/static/media/p2p.a1c699d1972c6f558e73.jpg",
@@ -17,11 +17,11 @@
     "static/media/green.svg": "/qwswebapp/static/media/green.a67ab63a5501e0c6489395415f764b72.svg",
     "index.html": "/qwswebapp/index.html",
     "main.f033e6c6.css.map": "/qwswebapp/static/css/main.f033e6c6.css.map",
-    "main.81c81fef.js.map": "/qwswebapp/static/js/main.81c81fef.js.map",
+    "main.73c2b293.js.map": "/qwswebapp/static/js/main.73c2b293.js.map",
     "787.6113f8f7.chunk.js.map": "/qwswebapp/static/js/787.6113f8f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f033e6c6.css",
-    "static/js/main.81c81fef.js"
+    "static/js/main.73c2b293.js"
   ]
 }
