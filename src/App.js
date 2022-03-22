@@ -12,7 +12,7 @@ import TandC from "./screens/TandC";
 function App() {
   return (
     <>
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <Navbar />
         <Body>
           <Switch>
@@ -27,3 +27,7 @@ function App() {
 }
 
 export default App;
+
+{
+  /* <Router basename={process.env.PUBLIC_URL}> */
+}
